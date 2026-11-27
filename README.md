@@ -22,6 +22,7 @@ The design is implemented and simulated using Cadence Virtuoso. The performance 
 ## 3. Circuit Architecture
 
 The two-stage CMOS Op-Amp consists of:
+
 <img width="694" height="162" alt="image" src="https://github.com/user-attachments/assets/244da746-c02e-48d7-a0b3-9803fb253afe" />
 
 <img width="496" height="361" alt="image" src="https://github.com/user-attachments/assets/f6702804-131d-4112-89db-0774b309e555" />
@@ -35,25 +36,25 @@ The two-stage CMOS Op-Amp consists of:
 <img width="366" height="323" alt="image" src="https://github.com/user-attachments/assets/71c81efb-44aa-45d1-abd8-cb135e30ca59" />
 
  ## 5. circuit diagram and testbench:
-    Simulation circuit of 180 nm:
+   Simulation circuit of 180 nm:
 
-     <img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/7747d609-f7bc-4a71-8828-0108b46e48a9" />
+   <img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/7747d609-f7bc-4a71-8828-0108b46e48a9" />
 
-     Simulation circuit of 90 nm:
+   Simulation circuit of 90 nm:
 
-    <img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/e3066370-bd11-462c-bc0d-0aa4223423c8" />
-
-
-     Slew Rate testbench ckt:
-
-     a) 180 nm
+  <img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/e3066370-bd11-462c-bc0d-0aa4223423c8" />
 
 
-     <img width="1600" height="791" alt="image" src="https://github.com/user-attachments/assets/697b526f-f836-4887-b04e-5e160171a07a" />
+   Slew Rate testbench ckt:
 
-       a) 90 nm
+   a) 180 nm
 
-     <img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/82ae6d6c-4e3a-4acc-bbb3-732fad9a31da" />
+
+   <img width="1600" height="791" alt="image" src="https://github.com/user-attachments/assets/697b526f-f836-4887-b04e-5e160171a07a" />
+
+   a) 90 nm
+
+   <img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/82ae6d6c-4e3a-4acc-bbb3-732fad9a31da" />
 
 ## 6. Simulation Results:
 
